@@ -15,7 +15,7 @@ into a valid SQL query, executing it safely against a real relational database, 
 returning a grounded, natural-language answer — including calculations like averages,
 rankings, and date-based comparisons across multiple joined tables.
 
-It's a companion piece to my [Wiki-RAG project](#) (unstructured document Q&A via
+It's a companion piece to my [Wiki-RAG project](https://github.com/deep4shah/Wiki-RAG) (unstructured document Q&A via
 retrieval), demonstrating the other major pattern for LLM-powered data Q&A:
 **structured, relational data reasoning.**
 
